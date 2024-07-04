@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/abelsportfolio/static/css/main.a5424f50.css",
-    "main.js": "/abelsportfolio/static/js/main.3afd943e.js",
+    "main.js": "/abelsportfolio/static/js/main.9112e36e.js",
     "static/media/Resume.pdf": "/abelsportfolio/static/media/Resume.a917fc31ed659aaa1000.pdf",
     "static/media/reactLogo.svg": "/abelsportfolio/static/media/reactLogo.88588f1ab2340fb704a543bb0875852e.svg",
     "static/media/postgresql.svg": "/abelsportfolio/static/media/postgresql.ae92b576b8ea41666538c0756df27969.svg",
@@ -10,10 +10,10 @@
     "static/media/GitHubLogo.svg": "/abelsportfolio/static/media/GitHubLogo.6fa18895f6e6c7772cab7049f7e05f59.svg",
     "index.html": "/abelsportfolio/index.html",
     "main.a5424f50.css.map": "/abelsportfolio/static/css/main.a5424f50.css.map",
-    "main.3afd943e.js.map": "/abelsportfolio/static/js/main.3afd943e.js.map"
+    "main.9112e36e.js.map": "/abelsportfolio/static/js/main.9112e36e.js.map"
   },
   "entrypoints": [
     "static/css/main.a5424f50.css",
-    "static/js/main.3afd943e.js"
+    "static/js/main.9112e36e.js"
   ]
 }
