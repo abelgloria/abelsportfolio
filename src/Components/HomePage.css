@@ -1,0 +1,65 @@
+.homePage{
+    display: flex !important;
+    flex-direction: column;
+    width: 100% !important;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+.homePageTitleContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 1rem;
+    margin: 5rem;
+    height: 50vh !important;
+}
+.titlePageLinks{
+    margin: 1rem 0rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.homePageTitleLogo{
+    width: 2.5rem;
+    margin: 0rem .6rem;
+}
+.skillSection{
+    padding: 1rem 0rem;
+    background-color: #142631;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    width: 100% !important;
+    /* flex-grow: 1; */
+}
+.skillsList{
+    margin: 2rem 0rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.individualSkill{
+    color: white;
+    border: white .1rem solid;
+    border-radius: .15rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 14rem;
+    margin: .5rem .5rem;
+    min-height: 10rem;
+}
+.skillsImage{
+    justify-content: center;
+    width: 3rem;
+    align-items: center;
+    margin: 1rem 0rem;
+}
