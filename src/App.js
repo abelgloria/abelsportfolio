@@ -9,9 +9,9 @@ function App() {
       <BrowserRouter>
         <Navbar/>
         <Routes>
-          <Route path="/abelsportfolio" element={<HomePage/>}/>
-          <Route path="/" element={<HomePage/>}/>
-          <Route path="/projects" element={<Projects/>} />
+          <Route path="https://abelgloria.github.io/abelsportfolio" element={<HomePage/>}/>
+          <Route path="https://abelgloria.github.io/" element={<HomePage/>}/>
+          <Route path="https://abelgloria.github.io/projects" element={<Projects/>} />
         </Routes>
       </BrowserRouter>
     </>
