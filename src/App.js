@@ -8,14 +8,14 @@ function App() {
     <>
       {/* using has router since it works with github pages,
       unlike browserRouter */}
-      <BrowserRouter>
+      <HashRouter>
         <Navbar/>
         <Routes>
           <Route path="/abelsportfolio" element={<HomePage/>}/>
           <Route path="/" element={<HomePage/>}/>
           <Route path="/projects" element={<Projects/>} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </>
   );
 };
